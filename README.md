@@ -22,15 +22,7 @@
 					
 				</div>
 			</div>
-			<!-- end Item 1 -->
-
-			<!-- begin Item 2 -->
 			
-			<!-- end Item 2 -->
-
-			<!-- begin Item 3 -->
-			
-			<!-- end Item 3 -->
 
 		</div>
 	 			
@@ -43,13 +35,6 @@
 	<!-- end Carousel -->
 </div>     
 </section>
-<!-- end Service & Study -->
-
-<!-- Our Ministries -->
-
-<!-- end Our Ministries -->
-
-
 <!-- begin Behind the Pulpit -->
 <section id="menu-staff" class="generic pulpit">
 <div class="container">
